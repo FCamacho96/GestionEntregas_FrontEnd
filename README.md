@@ -1,2 +1,2 @@
-# Sub_Gestion_Entregas
-Subsistema de Gestión de Entregas - CODEasy (IS) y Nexus (QA)
+# GestionEntregas_FrontEnd
+Subsistema de Gestión de Entregas - Front End - CODEasy (IS) y Nexus (QA)
